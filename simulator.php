@@ -2,7 +2,9 @@
 /* HOGAN, ALAN
  * Project 4
  * CSE 230 Aviral Shrivastava
- * alan hogan -at- gmail dot com
+ * http://alanhogan.com/contact
+ *
+ * Licensed under CC BY-NC-SA 4.0; please see README for more information
  *
  * PLEASE SEE THIS FILE IN ACTION at http://alanhogan.com/asu/simulator.php
  **/
