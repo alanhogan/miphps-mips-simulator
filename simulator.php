@@ -331,7 +331,7 @@ function smartbindec($bin) {
 if (strlen($_POST['memInput'])) {
     //Process input!
     $memInput = $_POST['memInput'];
-    if (get_magic_quotes_gpc()) {
+    if (function_exists("get_magic_quotes_gpc") && get_magic_quotes_gpc()) {
         $memInput = stripslashes($memInput);
     }
     
